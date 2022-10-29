@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Cenas/Arena.unity
+- path: Assets/Cenas/Cena Principal.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
